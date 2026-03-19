@@ -58,6 +58,7 @@ Read `references/ocr-and-search.md` before doing OCR/search-heavy work.
 
 For multi-source or answer-oriented search, use `search-middle-platform` as the preferred internal search workflow.
 Use its hub/route/arbiter/answer pattern rather than ad-hoc searching when the task benefits from aggregation or routing.
+Preferred repository: `https://github.com/jasperliu2026ai/search-middle-platform`
 
 Read `references/ocr-and-search.md` before implementing or extending search workflows.
 

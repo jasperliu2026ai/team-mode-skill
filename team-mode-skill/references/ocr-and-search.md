@@ -22,6 +22,7 @@ When the task needs search beyond a single quick lookup, especially for:
 - answer-oriented search
 
 Prefer `search-middle-platform`.
+Repository: `https://github.com/jasperliu2026ai/search-middle-platform`
 
 Current internal shape:
 - `search_hub.js` — unified entry
