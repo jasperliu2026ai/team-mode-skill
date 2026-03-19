@@ -10,7 +10,7 @@
 
 同时内置两条经过明确约束的能力路线：
 - OCR 默认走 `paddleocr-text-recognition`
-  直接clawhub搜索即可
+  直接clawhub搜索即可，注意须要配置apikey
 - 搜索默认走 `search-middle-platform`
   仓库地址：https://github.com/jasperliu2026ai/search-middle-platform
 
